@@ -1,5 +1,7 @@
 # An interactive real-time weather display using Streamlit
 
+<div align = "justify">
+
 # Overview
 
 This project presents an interactive weather dashboard for various cities in India using the WeatherAPI. The app provides users with an overview of weather conditions such as temperature, humidity, wind speed, and more. The dashboard allows filtering cities by weather conditions, temperature range, and regions. It also includes visualizations like histograms, box plots, bar charts, and a choropleth map to showcase weather data geographically.
@@ -10,9 +12,9 @@ The weather data for multiple Indian cities is fetched via the WeatherAPI. This 
 
 # Setup
 
-1) Visual Studio Code
-2) Packages: Streamlit, Plotly, Folium
-3) Weather API key
+**1)** Visual Studio Code
+**2)** Packages: Streamlit, Plotly, Folium
+**3)** Weather API key
 
 # Implementation
 
@@ -66,5 +68,19 @@ Cache weather and geographic data using @st.cache_data decorator to reduce API c
 # Result
 
 <p align = "center">
-  <img src= "https://github.com/user-attachments/assets/c9831e6d-0e81-412f-8c7f-c98b133ac016" alt = "Sample showcase" />
+    <img src= "https://github.com/user-attachments/assets/c9831e6d-0e81-412f-8c7f-c98b133ac016" alt = "Sample showcase" />
 </p>
+
+**Explore the complete application here:** https://weatherwidget.streamlit.app/
+
+# Conclusion
+
+This weather dashboard offers a simple and interactive way to explore current weather conditions across Indian cities. By integrating live data, it provides real-time insights and supports decision-making for weather-related queries.
+
+</div>
+
+# Credits
+
+**1)** WeatherAPI.com
+
+**2)** Streamlit.io
