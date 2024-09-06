@@ -13,7 +13,9 @@ The weather data for multiple Indian cities is fetched via the WeatherAPI. This 
 # Setup
 
 **1)** Visual Studio Code
+
 **2)** Packages: Streamlit, Plotly, Folium
+
 **3)** Weather API key
 
 # Implementation
