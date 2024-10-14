@@ -12,11 +12,11 @@ The weather data for multiple Indian cities is fetched via the WeatherAPI. This 
 
 # Setup
 
-**1)** Visual Studio Code
+**1)** **Visual Studio Code**: for development
 
-**2)** Packages: Streamlit, Plotly, Folium
+**2)** **Streamlit, Plotly, Folium**: for visualization
 
-**3)** Weather API key
+**3)** **Weather API key**: for weather scraping
 
 # Implementation
 
